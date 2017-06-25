@@ -25,8 +25,8 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ****************************************  项目介绍  ****************************************
 
 
-*     git下拉地址
-
+*     git下拉地址：git@github.com:manchang6/ess_web.git
+      git每个人有一个分支，分支名为自己姓名的全拼  如（wangmanchang）
 
 一、  项目结构介绍
 - ess_web
