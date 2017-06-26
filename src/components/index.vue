@@ -1,9 +1,5 @@
 <template>
-
-  <div class="controller _index">
-    看啥啊呀看，怎么看我也是主页(index)！
-  </div>
-  
+  <div></div>
 </template>
 
 <script>
@@ -28,6 +24,6 @@ export default {
 </script>
 
 <style type="text/css" scoped>
-  
+
 </style>
 
