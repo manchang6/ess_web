@@ -25,10 +25,10 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ****************************************  项目介绍  ****************************************
 
 
-*     git下拉地址
-
-
-一、  项目结构介绍
+*     git下拉地址。 git@github.com:manchang6/ess_web.git
+	  
+	
+一、  结构目录介绍
 - ess_web
 	.babelrc                ------ babel编译参数，编译vue、es6等
 	.editorconfig           ------ 定义代码格式
