@@ -3,7 +3,7 @@
       <div class="controller_top">
         <nav>
           <ul>
-            <li><a href="javascript:;">注册</a><span>|</span><a href="javascript:;">登陆</a></li>
+            <li><router-link to="/Register">注册</router-link><span>|</span><router-link to="/Land">登入</router-link></li>
             <li><a href="javascript:;">我要开店</a></li>
             <li><a href="javascript:;">个人中心</a></li>
           </ul>
