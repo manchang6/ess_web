@@ -63,8 +63,8 @@ export default new Router({
     },
     {
       path: '/',
-      redirect: '/Multi',
-      component: Multi
+      redirect: '/Commodity',
+      component: Commodity
     }
     
   ]
