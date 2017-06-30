@@ -7,10 +7,9 @@ import Selling from '@/components/Selling/Selling'
 import Discount from '@/components/Discount/Discount'
 import Lifeservice from '@/components/Lifeservice/Lifeservice'
 import Aboutus from '@/components/Aboutus/Aboutus'
-import Land from '@/components/Land/Land'
-import Register from '@/components/Register/Register'
-import Multi from '@/components/Multi/Multi'
+
 Vue.use(Router);
+
 
 
 
@@ -20,21 +19,6 @@ export default new Router({
       path: '/Commodity',
       name: 'Commodity',
       component: Commodity
-    },
-    {
-      path: '/Register',
-      name: 'Register',
-      component: Register
-    },
-    {
-      path: '/Land',
-      name: 'Land',
-      component: Land
-    },
-    {
-      path: '/Multi',
-      name: 'Multi',
-      component: Multi
     },
     {
       path: '/Newgoods',
@@ -63,8 +47,7 @@ export default new Router({
     },
     {
       path: '/',
-      redirect: '/Commodity',
-      component: Commodity
+      redirect: '/Commodity'
     }
     
   ]
